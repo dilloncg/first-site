@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>First Site!</title>
+    <link rel="stylesheet" href="style.css"/>
+  </head>
+  <body>
+    <h1 class="common">Caty's Home</h1>
+    <h2>Heading 2</h2>
+    <h3>Heading 3</h3>
+    <p1 class="common">Hello World! Make a small <em>website</em> about a
+    passion or interest of yours. We’ll be using
+    this project as a way to introduce ourselves,
+    as well as a space to practice and experiment
+    writing html and css. An <small>important</small> goal of
+    this project is to allow yourself to <strong>experiment</strong>
+    and remain flexible with the presentation of
+    the site. Most likely, this is the first site
+    you will be writing by hand — try to let it
+    grow and learn with you! Start by collecting
+    content about the passion you've chosen from
+    wherever that content is found: internet,
+    books, outside (maybe it is content you have
+    authored yourself) and then start to write
+    your code. <a href="file:///Users/catygrace/passion/html/projects/newindex2.html">Link</a></p1>
+    <p2>Most likely, this is the first site
+    you will be writing by hand — try to let it
+    grow and learn with you!</p2>
+    <a href="file:///Users/catygrace/passion/html/index%20html">Here's a lnk</a>
+    <p1>
+    <ol>
+      <li>Oranges</li>
+      <li>Apples</li?\>
+      <li>Peaches</li>
+    </ol>
+    <img src="png/multico.png">
+    </p1>
+    </body>
+    <!--Hello-->
+  </html>

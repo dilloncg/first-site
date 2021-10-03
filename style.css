@@ -1,0 +1,23 @@
+html{
+  background-color: rgb(70,250,59);
+}
+
+h1{
+  text-align: center;
+}
+
+.common {
+  color: rgba(255, 222, 37, 0.9);
+  background: blue;
+  border: 5px dotted pink;
+  border-radius: 20px;
+  padding: 2px;
+  margin: 60px;
+  height: 200px;
+}
+
+img{
+  width: 70%;
+  display: block;
+  margin:0 auto;
+  )
